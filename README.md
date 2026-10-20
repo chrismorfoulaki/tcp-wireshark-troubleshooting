@@ -119,7 +119,7 @@ These are Wireshark display filters, not `tcpdump` capture filters.
 - `captures/` — baseline, failure and recovery packet captures
 - `docs/topology.svg` — logical network topology diagram
 - `screenshots/` — Wireshark screenshots of the baseline, failure and recovery
-- `scripts/` — directory reserved for lab setup, fault and cleanup automation
+- `scripts/` — executable setup, fault-injection and cleanup scripts
 - `www/` — HTML page served by the Python HTTP server
 - `README.md` — project overview, findings and evidence links
 
